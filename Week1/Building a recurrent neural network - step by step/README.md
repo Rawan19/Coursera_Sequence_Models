@@ -2,9 +2,9 @@ In this assignment, I implemented key components of a Recurrent Neural Network i
 
 ## 1 - Forward propagation for the basic Recurrent Neural Network
 
-## 2-   Fprward Pass for Long Short-Term Memory (LSTM) network
+## 2-   Forward Pass for Long Short-Term Memory (LSTM) network
 
-## 3-
+
 
 Recurrent Neural Networks (RNN) are very effective for Natural Language Processing and other sequence tasks because they have "memory". 
 
