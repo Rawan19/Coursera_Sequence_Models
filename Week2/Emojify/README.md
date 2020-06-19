@@ -3,6 +3,7 @@
 In the second assignment, I used word vector representations to build two versions of an Emojifier:
 
    1 - A baseline model (Emojifier-V1) using word embeddings.
+   
    2 - A more sophisticated model (Emojifier-V2) that further incorporates an LSTM.
    
    The model which inputs a sentence (such as "Let's go see the baseball game tonight!") and finds the most appropriate emoji to be used with this sentence (⚾️).
